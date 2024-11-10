@@ -14,6 +14,7 @@
 
 var username = "Testleaf";
 let companyName = 'Qeagle'
+let mycompany = "company's scb"
 companyName='standardchartered'
 var lastname = 'A';
 

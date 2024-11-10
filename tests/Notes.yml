@@ -1,0 +1,17 @@
+
+Shadown DOM
+ * Used by Dev
+ * Web page inside another web page
+ * Activity done on Main page won't affect web page inside
+ * in Selenium, we need to import lib and many procedures
+ * it is easy to handle in Playwright
+ * capability to pierce the Shadow dom
+ * It doesn't support xpath, we need to use inbuilt locators/css
+ 
+ Skip Login
+
+ * bypassing the login
+ * Storing the session state
+ *
+
+
